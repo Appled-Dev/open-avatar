@@ -1,2 +1,2 @@
 # open-avatar
- I love creating different kinds of drawings that you could use for your profile picture or avatar. Whenever I make new ones, I'll add them to this repo. You don't have to give me any credit if you use them.
+I enjoy making a variety of drawings that can be used as profile pictures or avatars. I will continue to add new ones to this repository as I create them. You do not need to credit me if you choose to use them.
