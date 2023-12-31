@@ -1,5 +1,3 @@
-# open-avatar ![oa64](https://github.com/Appled-Dev/open-avatar/assets/136099435/ccebdd84-fb4b-484e-988a-b7e7100bc411)
-
-
+# open-avatar
 I enjoy making a variety of drawings that can be used as profile pictures or avatars. I will continue to add new ones to this repository as I create them. You do not need to credit me if you choose to use them.
 
